@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on [Honey](https://github.com/Parvesbd02/Honey-Website-Desing)
+- 👯 I’m looking to collaborate on [real-time-chat-app](https://chat-app-frontend-git-main-parves-projects-1d749a71.vercel.app/)
 
 - 💬 Ask me about **React,MERN**
 
